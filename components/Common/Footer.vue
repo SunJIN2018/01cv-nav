@@ -6,10 +6,10 @@
 				<span
 					>Powered by
 					<a
-						href="https://www.fre123.com"
+						href="https://www.01cv.online"
 						target="_blank"
-						class="decoration-transparent text-[#a4715c]"
-						>FRE123</a
+						class="decoration-transparent text-[#ccc]"
+						>01CV</a
 					>
 				</span>
 			</div>
