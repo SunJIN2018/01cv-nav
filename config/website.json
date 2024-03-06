@@ -35,24 +35,10 @@
       ]
     },
     "right": {
-      "is_show": false,
+      "is_show": true,
       "group": {
-        "name": "热点榜单",
-        "url": "https://www.fre123.com/news",
-        "children": [
-          {
-            "name": "新闻热榜",
-            "url": "https://www.fre123.com/news"
-          },
-          {
-            "name": "技术热榜",
-            "url": "https://www.fre123.com/tech"
-          },
-          {
-            "name": "精选周刊",
-            "url": "https://www.fre123.com/weekly"
-          }
-        ]
+        "name": "阿里云 2核2G3M40GB云盘 99/年",
+        "url": "https://www.aliyun.com/minisite/goods?userCode=fqyl3vzn"
       }
     }
   },
