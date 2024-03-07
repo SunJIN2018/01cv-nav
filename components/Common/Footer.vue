@@ -1,16 +1,22 @@
+<!--
+ * @Author       : Sun
+ * @Date         : 2024-03-05 13:12:39
+ * @LastEditTime : 2024-03-07 09:18:47
+ * @Description  : 
+ * @FilePath     : \fre123-nav\components\Common\Footer.vue
+-->
 <template>
 	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
 		<section class="flex justify-center">
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
-				<span
-					>Powered by
-					<a
+				<span class="text-[#ccc]"
+					>Powered by fre123
+					<!-- <a
 						href="https://www.01cv.online"
 						target="_blank"
 						class="decoration-transparent text-[#ccc]"
-						>01CV</a
-					>
+						>01CV</a> -->
 				</span>
 			</div>
 			<!-- Left -->
