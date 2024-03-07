@@ -2036,14 +2036,14 @@
             "url": "https://tonzhon.com/",
             "icon": "/images/65985ed2a626a.png",
             "description": "PC端免费音乐平台",
-            "is_show": true
+            "is_show": false
           },
           {
             "title": "简繁音乐",
             "url": "https://pt.sayqz.com/",
             "icon": "/images/65985eeb98d91.png",
             "description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
-            "is_show": true
+            "is_show": false
           },
           {
             "title": "魅力音乐",
