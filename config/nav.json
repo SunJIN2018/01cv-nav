@@ -126,17 +126,17 @@
         "upper_right_corner": {},
         "details": [
           {
-            "title": "Dreamina",
-            "url": "https://dreamina.jianying.com/ai-tool/platform",
-            "icon": "/images/ai/dreamina-v1.png",
-            "description": "抖音旗下的一款A绘画工具能够根据用户提供的文本内容生成由A制作的创意图片",
+            "title": "文心一言",
+            "url": "https://yiyan.baidu.com",
+            "icon": "/images/ai/yiyan.baidu.com.png",
+            "description": "百度推出的一款AI工具，既能写文案、想点子，又能你陪你聊天、答疑解惑。",
             "is_show": true
           },
           {
-            "title": "公文协作助手",
-            "url": "https://gw.iflydocs.com/",
-            "icon": "/images/ai/xinghuo.ico",
-            "description": "公文写作助手是一款依托于星火大模型技术，专为广大公文材料撰稿人打造的高效写作平台。",
+            "title": "通义千问",
+            "url": "https://tongyi.aliyun.com",
+            "icon": "/images/ai/tongyi.aliyun.com.png",
+            "description": "阿里旗下通义千问，致力于实现类人智慧的通用智能",
             "is_show": true
           },
           {
@@ -147,6 +147,225 @@
             "is_show": true
           },
           {
+            "title": "腾讯混元",
+            "url": "https://hunyuan.tencent.com/bot/chat",
+            "icon": "/images/ai/hunyuan.tencent.com.png",
+            "description": "由腾讯研发的大语言模型，具备强大的中文创作能力，复杂语境下的逻辑推理能力，以及可靠的任务执行能力",
+            "is_show": true
+          },
+          {
+            "title": "抖音豆包",
+            "url": "https://www.doubao.com",
+            "icon": "/images/ai/www.doubao.com.png",
+            "description": "抖音推出的AI工具，写文案、想点子、聊天、答疑解惑。",
+            "is_show": true
+          },
+          {
+            "title": "百川智能",
+            "url": "https://www.baichuan-ai.com/chat",
+            "icon": "/images/ai/www.baichuan-ai.com.png",
+            "description": "百川智能大语言模型,百川大模型,大语言模型,自然语言处理,人工智能大模型,AI聊天机器人,AI聊天,AI创作,知识增强大模型,大语言模型API,国内大模型公司,Chat,AI聊天,AI助手,智能问答,AI智能问答,文本创作,知识问答,开源大模型,开源可商用大模型,可商用大模型",
+            "is_show": true
+          },
+          {
+            "title": "字节小悟空",
+            "url": "https://wukong.com/tool",
+            "icon": "/images/ai/wukong.com.ico",
+            "description": "字节小悟空AI智能工具，助力美好生活。轻轻一键，唤醒专属于你的私人助理。智慧服务，美好生活。",
+            "is_show": true
+          }
+        ]
+      },
+      {
+        "tab_name": "办公工具",
+        "upper_right_corner": {},
+        "details": [
+          {
+            "title": "WPS AI",
+            "url": "https://ai.wps.cn",
+            "icon": "/images/ai/ai.wps.cn.ico",
+            "description": "WPS 推出的办公AI智能助手，智能PPT、表格、文档整理",
+            "is_show": true
+          },
+          {
+            "title": "公文协作助手",
+            "url": "https://gw.iflydocs.com/",
+            "icon": "/images/ai/xinghuo.ico",
+            "description": "公文写作助手是一款依托于星火大模型技术，专为广大公文材料撰稿人打造的高效写作平台。",
+            "is_show": true
+          },
+          {
+            "title": "AiPPT",
+            "url": "https://www.aippt.cn",
+            "icon": "/images/ai/www.aippt.cn.png",
+            "description": "AiPPT 自动生成PPT大纲、模板、Word-PPT",
+            "is_show": true
+          },
+          {
+            "title": "iSlide",
+            "url": "https://www.islide.cc/",
+            "icon": "/images/ai/www.islide.cc.ico",
+            "description": "iSlide - 简单，好用的PPT插件！拥有30万+ 原创可商用PPT模板，PPT主题素材，PPT案例，PPT图表，PPT图示，PPT图标，PPT插图和800万+正版图片。提供38个设计辅助实用功能，一键解决PPT设计制做中的难题。",
+            "is_show": true
+          },
+          {
+            "title": "360苏打办公",
+            "url": "https://bangong.360.cn/",
+            "icon": "/images/ai/bangong.360.cn.ico",
+            "description": "苏打办公，工具就是全，提高办公生活效率，全网最好用的办公导航，优质海量工具",
+            "is_show": true
+          }
+        ]
+      },
+      {
+        "tab_name": "会议纪要",
+        "upper_right_corner": {},
+        "details": [
+          {
+            "title": "讯飞听见",
+            "url": "https://www.iflyrec.com",
+            "icon": "/images/ai/www.iflyrec.com.ico",
+            "description": "讯飞听见，录音转文字，语音转文字，录音整理，录音转文字软件，语音转文字软件，在线录音转文字，视频转文字，语音翻译，在线语音转文字，视频会议，录音软件，讯飞翻译",
+            "is_show": true
+          },
+          {
+            "title": "阿里通义听悟",
+            "url": "https://tingwu.aliyun.com",
+            "icon": "/images/ai/tingwu.aliyun.com.png",
+            "description": "阿里云通义听悟是聚焦音视频内容的工作学习AI助手，依托大模型，帮助用户记录、整理和分析音视频内容，体验用大模型做音视频笔记、整理会议记录。",
+            "is_show": true
+          },
+          {
+            "title": "飞书妙记",
+            "url": "https://www.feishu.cn/product/minutes?from=thosefree.com",
+            "icon": "/images/ai/www.feishu.cn.ico",
+            "description": "飞书妙记是新一代的智能会议工具,在线生成会议纪要,智能语音识别转文字,快捷转录视频音频;会议交流沉淀为知识;让会议更专注,更高效！",
+            "is_show": true
+          },
+          {
+            "title": "腾讯会议AI",
+            "url": "https://meeting.tencent.com/ai/index.html",
+            "icon": "/images/ai/meeting.tencent.com.ico",
+            "description": "腾讯基于最新人工智能大模型的全能会议助手，能够与您进行对话互动，协助完成会议实时总结、会议待办生成等核心任务，提高您的会议效率，释放更多精力专注于决策。",
+            "is_show": true
+          }
+        ]
+      },
+      {
+        "tab_name": "写作工具",
+        "upper_right_corner": {},
+        "details": [
+          {
+            "title": "腾讯 Effidit",
+            "url": "https://effidit.qq.com",
+            "icon": "/images/ai/effidit.qq.com.png",
+            "description": "腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验",
+            "is_show": true
+          },
+          {
+            "title": "讯飞写作",
+            "url": "https://huixie.iflyrec.com",
+            "icon": "/images/ai/huixie.iflyrec.com.ico",
+            "description": "讯飞写作基于讯飞星火认知大模型能力，支持多场景写作，提供会议纪要，求职简历，心得体会，入党申请，论文大纲，品宣文案，PPT大纲等各类写作模板，AI对话，激发灵感，立即体验。",
+            "is_show": true
+          },
+          {
+            "title": "深言达意",
+            "url": "https://www.shenyandayi.com",
+            "icon": "/images/ai/www.shenyandayi.com.ico",
+            "description": "根据模糊描述，找词找句的智能写作工具",
+            "is_show": true
+          },
+          {
+            "title": "字节火山写作",
+            "url": "https://www.writingo.net",
+            "icon": "/images/ai/www.writingo.net.svg",
+            "description": "全文润色的AI智能写作",
+            "is_show": true
+          },
+          {
+            "title": "秘塔写作猫",
+            "url": "https://xiezuocat.com/",
+            "icon": "/images/ai/xiezuocat.com.ico",
+            "description": "作业帮旗下：全文生成、PPT生成、问答助手、写作助手",
+            "is_show": true
+          },
+          {
+            "title": "WriteWise",
+            "url": "https://www.writingo.net",
+            "icon": "/images/ai/www.ximalaya.com.png",
+            "description": "喜马拉雅小说创作工具",
+            "is_show": true
+          },
+          {
+            "title": "笔灵AI",
+            "url": "https://www.writingo.net",
+            "icon": "/images/ai/ibiling.cn.ico",
+            "description": "一键生成工作计划、文案方案",
+            "is_show": true
+          },
+          {
+            "title": "易撰",
+            "url": "https://www.yizhuan5.com/",
+            "icon": "/images/ai/www.yizhuan5.com.ico",
+            "description": "自媒体内容",
+            "is_show": true
+          },
+          {
+            "title": "Giiso写作机器人",
+            "url": "https://www.giiso.com/#/",
+            "icon": "/images/ai/www.giiso.com.png",
+            "description": "写作、文配图、风格转换、文生图",
+            "is_show": true
+          }
+        ]
+      },
+      {
+        "tab_name": "智能脑图",
+        "upper_right_corner": {},
+        "details": [
+          {
+            "title": "ProcessOn",
+            "url": "https://www.processon.com",
+            "icon": "/images/ai/www.processon.com.ico",
+            "description": "免费在线流程图思维导图，专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制",
+            "is_show": true
+          },
+          {
+            "title": "亿图脑图",
+            "url": "https://www.edrawsoft.cn/mindmaster",
+            "icon": "/images/ai/www.edrawsoft.cn.png",
+            "description": "基于云的跨端思维导图软件",
+            "is_show": true
+          },
+          {
+            "title": "GitMind思乎",
+            "url": "https://gitmind.cn/",
+            "icon": "/images/ai/gitmind.cn.png",
+            "description": "新一代免费思维导图协作软件，灵感流淌、思想共创，激发思想流动，让智慧自然涌现",
+            "is_show": true
+          },
+          {
+            "title": "boardmix 博思白板",
+            "url": "https://boardmix.cn/ai-whiteboard",
+            "icon": "/images/ai/boardmix.cn.ico",
+            "description": "新一代免费思维导图协作软件，灵感流淌、思想共创，激发思想流动，让智慧自然涌现",
+            "is_show": true
+          }
+        ]
+      },
+      {
+        "tab_name": "绘图工具",
+        "upper_right_corner": {},
+        "details": [
+          {
+            "title": "抖音Dreamina",
+            "url": "https://dreamina.jianying.com/ai-tool/platform",
+            "icon": "/images/ai/dreamina-v1.png",
+            "description": "抖音旗下的一款A绘画工具能够根据用户提供的文本内容生成由A制作的创意图片",
+            "is_show": true
+          },
+          {
             "title": "触手AI绘图",
             "url": "https://douchu.ai/",
             "icon": "/images/ai/douchu.ai.ico",
@@ -154,10 +373,17 @@
             "is_show": true
           },
           {
-            "title": "文心一言",
-            "url": "https://yiyan.baidu.com/",
-            "icon": "/images/ai/yiyan.baidu.com.png",
-            "description": "百度推出的，既能写文案、想点子，又能你陪你聊天、答疑解惑。",
+            "title": "无界AI绘图",
+            "url": "https://www.wujieai.com/",
+            "icon": "/images/ai/www.wujieai.com.ico",
+            "description": "无界AI，集prompt搜索、AI图库、AI创作、AI广场、词/图等为一体。提供一站式AI搜索-创作-交流-分享服务。",
+            "is_show": true
+          },
+          {
+            "title": "360智绘",
+            "url": "https://aigc.360.com/?src=ai_360_com",
+            "icon": "/images/ai/aigc.360.com.png",
+            "description": "360风格化AI绘画、Lora训练",
             "is_show": true
           }
         ]
