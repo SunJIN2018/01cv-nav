@@ -126,6 +126,13 @@
         "upper_right_corner": {},
         "details": [
           {
+            "title": "免费ChatGPT中文版",
+            "url": "https://chatgai.lovepor.cn/?code=1015226588",
+            "icon": "/images/ai/chatgai.lovepor.cn.png",
+            "description": "国内免费使用ai聊天问答、写作、文生视频、生成ppt、ai绘画于一体的产品 ",
+            "is_show": true
+          },
+          {
             "title": "文心一言",
             "url": "https://yiyan.baidu.com",
             "icon": "/images/ai/yiyan.baidu.com.png",
